@@ -1,0 +1,18 @@
+.container {
+	height: 450px;
+	width: 450px;
+	border-radius: 5px;
+	background-color: gray;
+	opacity: .5;
+	text-align: left;
+	margin: 120px;
+}
+
+body {
+	background: url("/Users/rosswildin/GA/Deliverables/ToDoListJQ/jquery-todo-list/notepad.jpg");
+	text-align: center;
+}
+
+h1, label{
+	color: white;
+}
